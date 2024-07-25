@@ -4,6 +4,7 @@ namespace AMD201official
     {
         public static void Main(string[] args)
         {
+            //What's an airport?
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
